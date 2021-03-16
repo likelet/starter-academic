@@ -1,6 +1,6 @@
 ---
 widget: about
-active: true
+active: false
 author: admin
 widget_id: Qi Zhao's Profile
 headless: true
