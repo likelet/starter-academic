@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: zhaoqi@sysucc.org.cn
-phone: 888 888 88 88
 address:
   street: Yuexiu Street
   city: Guangzhou
@@ -36,7 +35,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: qi_likelet
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/qi_likelet'
 
 # Site header
 
