@@ -2,8 +2,8 @@
 title: Qi Zhao
 role: Associated Professor of Cancer Genomics
 avatar_filename: 圆图.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include cancer genomics, biology tools developlement
+  and high-performance computing.
 interests: []
 social: []
 organizations:
