@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: Home
 active: false
 author: admin
 widget_id: Qi Zhao's Profile
