@@ -4,7 +4,7 @@ active: false
 author: admin
 widget_id: Qi Zhao's Profile
 headless: true
-weight: 0
+weight: 10
 title: Qi Zhao's Profile
 subtitle: "Cancer Bioinformatics, Associate Professor in Sun Yat-Sen Univeristy
   Cancer Center "
